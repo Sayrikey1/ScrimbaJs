@@ -49,6 +49,10 @@ body {
     color: white;
 }
 
+::placeholder {
+  color: white;
+}
+
 #content{
     background-color: #1F2937;
     background-position: center;
